@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AndreyNazarov/Feedback.git/static/css/main.5bd55038.chunk.css",
+    "main.js": "/AndreyNazarov/Feedback.git/static/js/main.c32ba7e6.chunk.js",
+    "main.js.map": "/AndreyNazarov/Feedback.git/static/js/main.c32ba7e6.chunk.js.map",
+    "runtime-main.js": "/AndreyNazarov/Feedback.git/static/js/runtime-main.bdd1577c.js",
+    "runtime-main.js.map": "/AndreyNazarov/Feedback.git/static/js/runtime-main.bdd1577c.js.map",
+    "static/js/2.e111634d.chunk.js": "/AndreyNazarov/Feedback.git/static/js/2.e111634d.chunk.js",
+    "static/js/2.e111634d.chunk.js.map": "/AndreyNazarov/Feedback.git/static/js/2.e111634d.chunk.js.map",
+    "index.html": "/AndreyNazarov/Feedback.git/index.html",
+    "static/css/main.5bd55038.chunk.css.map": "/AndreyNazarov/Feedback.git/static/css/main.5bd55038.chunk.css.map",
+    "static/js/2.e111634d.chunk.js.LICENSE.txt": "/AndreyNazarov/Feedback.git/static/js/2.e111634d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdd1577c.js",
+    "static/js/2.e111634d.chunk.js",
+    "static/css/main.5bd55038.chunk.css",
+    "static/js/main.c32ba7e6.chunk.js"
+  ]
+}
